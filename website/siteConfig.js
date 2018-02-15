@@ -57,7 +57,7 @@ const siteConfig = {
   copyright:
     'Copyright © ' +
     new Date().getFullYear() +
-    '2DverseStudio',
+    ' 2DverseStudio',
   organizationName: 'rafaelnsantos', // or set an env variable ORGANIZATION_NAME
   projectName: 'unity-cloudsave', // or set an env variable PROJECT_NAME
   highlight: {
