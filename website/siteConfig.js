@@ -31,6 +31,7 @@ const siteConfig = {
     {page: 'about', label: 'About'},
     {blog: true, label: 'Blog'},
     {search: true},
+    {languages: true}
   ],
   users,
   /* path to images for header/footer */
