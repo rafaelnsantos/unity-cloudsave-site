@@ -9,7 +9,7 @@
 const users = [
   {
     caption: '2DverseStudio',
-    image: '/unity-cloudsave/img/logo-menor.png',
+    image: 'http://2dversestudio.com.br/images/logo-menor.png',
     infoLink: 'http://2dversestudio.com.br/',
     pinned: true,
   },
