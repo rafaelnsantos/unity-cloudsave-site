@@ -1,17 +1,17 @@
 ---
-id: server-installation
-title: Server Installation
+id: instalación-servidor
+title: Instalación del servidor
 ---
-There are two ways to deploy the server.
+Hay dos formas de desplegar el servidor.
 
 ### 1
 
-1. Setup a free tier [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) account.
-2. Setup a free tier [redislabs](https://redislabs.com/) account.
-3. Setup a free tier [heroku](https://www.heroku.com/) account.
+1. Configure un nivel libre en una cuenta de MongoDB Atlas.
+2. Configure un nivel libre en una cuenta de redislab.
+3. Configure un nivel libre en una cuenta de heroku.
 
 ### 2 Docker
 
-1. Use the Dockerfile
+1. Use el Dockerfile
 
 ## Setting enviroment variables
