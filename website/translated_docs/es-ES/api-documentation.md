@@ -1,8 +1,8 @@
 ---
-id: api-documentation
-title: API documentation
+id: documentación-api
+title: Documentación API
 ---
-CloudSave methods
+Métodos para guardar en la Nube
 
 ``` c#
 
