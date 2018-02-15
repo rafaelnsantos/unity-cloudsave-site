@@ -1,10 +1,10 @@
 ---
-id: unity-installation
-title: Unity Installation
+id: instalacion-unidad
+title: Instalación de unidad
 ---
-### 1 Using the Quickstart project
+### 1 Usando el proyecto de inicio rápido
 
-1. Configure the Cloudsave settings in Clodsave > Edit Settings
+1. Configure los parámetros de Cloudsave en Cloudsave > Editar configuración
 
 ### 2 Docker
 
