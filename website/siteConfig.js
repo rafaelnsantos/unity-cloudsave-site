@@ -9,7 +9,7 @@
 const users = [
   {
     caption: '2DverseStudio',
-    image: '/unity-cloudsave-site/img/logo-menor.png',
+    image: '/unity-cloudsave/img/logo-menor.png',
     infoLink: 'http://2dversestudio.com.br/',
     pinned: true,
   },
@@ -22,9 +22,9 @@ const siteConfig = {
   },
   title: 'Unity CloudSave' /* title for your website */,
   tagline: 'A website for testing',
-  url: 'https://rafaelnsantos.github.io/unity-cloudsave-site' /* your website url */,
-  baseUrl: '/unity-cloudsave-site/' /* base url for your project */,
-  projectName: 'unity-cloudsave-site',
+  url: 'https://rafaelnsantos.github.io/unity-cloudsave' /* your website url */,
+  baseUrl: '/unity-cloudsave/' /* base url for your project */,
+  projectName: 'unity-cloudsave',
   headerLinks: [
     {doc: 'installation', label: 'Docs'},
     {page: 'help', label: 'Help'},
@@ -59,14 +59,14 @@ const siteConfig = {
     new Date().getFullYear() +
     '2DverseStudio',
   organizationName: 'rafaelnsantos', // or set an env variable ORGANIZATION_NAME
-  projectName: 'unity-cloudsave-site', // or set an env variable PROJECT_NAME
+  projectName: 'unity-cloudsave', // or set an env variable PROJECT_NAME
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks
     theme: 'default',
   },
   scripts: ['https://buttons.github.io/buttons.js'],
   // You may provide arbitrary config keys to be used as needed by your template.
-  repoUrl: 'https://github.com/rafaelnsantos/unity-cloudsave-site',
+  repoUrl: 'https://github.com/rafaelnsantos/unity-cloudsave',
 };
 
 module.exports = siteConfig;
