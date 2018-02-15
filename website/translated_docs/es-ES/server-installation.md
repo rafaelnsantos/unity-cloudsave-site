@@ -14,4 +14,4 @@ Hay dos formas de desplegar el servidor.
 
 1. Use el Dockerfile
 
-## Setting enviroment variables
+## Configuración de variables de entorno
