@@ -1,0 +1,33 @@
+{
+  "_comment": "Este arquivo é gerado automaticamente por gravação-translations.js",
+  "localized-strings": {
+    "next": "Próximo",
+    "previous": "Anterior",
+    "tagline": "Um site para testes",
+    "installation": "Instalação",
+    "Docs": "Docs",
+    "Help": "Ajuda",
+    "About": "Sobre",
+    "Blog": "Blog",
+    "Getting Started": "Guia de introdução"
+  },
+  "pages-strings": {
+    "About Unity CloudSave|no description given": "Sobre a Unity CloudSave",
+    "...|no description given": "...",
+    "Why|no description given": "Por que",
+    "Learn more using the [documentation on this site.](/test-site/docs/en/doc1.html)|no description given": "Aprender mais usando a [documentação neste site]. (/unity-cloudsave-site/docs/pt/installation.html)",
+    "Browse Docs|no description given": "Navegue Docs",
+    "Ask questions about the documentation and project|no description given": "Fazer perguntas sobre o projeto e documentação",
+    "Join the community|no description given": "Participe da Comunidade",
+    "Find out what's new with this project|no description given": "Descubra o que há de novo com este projeto",
+    "Stay up to date|no description given": "Mantenha-se atualizado",
+    "Need help?|no description given": "Precisa de ajuda?",
+    "This project is maintained by a dedicated group of people.|statement made to reader": "Este projeto é mantido por um grupo dedicado de pessoas.",
+    "These are features of this project|no description given": "Estas são características deste projeto",
+    "This project is used by all these people|no description given": "Este projeto é usado por todas essas pessoas",
+    "More Users|no description given": "Mais usuários",
+    "Help Translate|recruit community translators for your project": "Ajude a traduzir",
+    "Edit this Doc|recruitment message asking to edit the doc source": "Editar",
+    "Translate this Doc|recruitment message asking to translate the docs": "Traduzir"
+  }
+}
