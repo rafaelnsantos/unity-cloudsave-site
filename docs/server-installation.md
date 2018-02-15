@@ -1,6 +1,6 @@
 ---
-id: installation
-title: Installation
+id: server-installation
+title: Server Installation
 ---
 
 There are two ways to deploy the server.

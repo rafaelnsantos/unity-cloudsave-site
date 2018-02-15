@@ -1,9 +1,13 @@
 {
   "docs": {
-    "Getting Started": [
-      "installation"
+    "Server Setup": [
+      "server-installation"
+    ],
+    "Unity Setup": [
+      "unity-installation"
+    ],
+    "Documentation API": [
+      "api-documentation"
     ]
-  },
-  "docs-other": {
   }
 }

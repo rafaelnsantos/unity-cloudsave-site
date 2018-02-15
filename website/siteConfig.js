@@ -21,12 +21,13 @@ const siteConfig = {
     indexName: "test"
   },
   title: 'Unity CloudSave' /* title for your website */,
-  tagline: 'A website for testing',
+  tagline: 'Open Source cloudsave solution for unity mobile and WebGL.',
   url: 'https://rafaelnsantos.github.io/unity-cloudsave' /* your website url */,
   baseUrl: '/unity-cloudsave/' /* base url for your project */,
   projectName: 'unity-cloudsave',
   headerLinks: [
-    {doc: 'installation', label: 'Docs'},
+    {doc: 'server-installation', label: 'Docs'},
+    {doc: 'api-documentation', label: 'API'},
     {page: 'help', label: 'Help'},
     {page: 'about', label: 'About'},
     {blog: true, label: 'Blog'},
@@ -40,8 +41,8 @@ const siteConfig = {
   favicon: 'img/favicon.png',
   /* colors for website */
   colors: {
-    primaryColor: '#2E8555',
-    secondaryColor: '#205C3B',
+    primaryColor: '#7541A8',
+    secondaryColor: '#000000',
   },
   /* custom fonts for website */
   /*fonts: {
@@ -63,7 +64,7 @@ const siteConfig = {
   projectName: 'unity-cloudsave', // or set an env variable PROJECT_NAME
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks
-    theme: 'default',
+    theme: 'atom-one-dark',
   },
   scripts: ['https://buttons.github.io/buttons.js'],
   // You may provide arbitrary config keys to be used as needed by your template.

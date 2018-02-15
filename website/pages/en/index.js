@@ -83,7 +83,7 @@ class HomeSplash extends React.Component {
           <ProjectTitle />
           <PromoSection>
             <Button href="#try">Try It Out</Button>
-            <Button href={docUrl('installation.html', language)}>Example Link</Button>
+            <Button href={docUrl('server-installation.html', language)}>Example Link</Button>
           </PromoSection>
         </div>
       </SplashContainer>
@@ -107,14 +107,26 @@ const Features = props => (
         content: '<translate>This is the content of my feature</translate>',
         image: imgUrl('docusaurus.svg'),
         imageAlign: 'top',
-        title: 'Feature One',
+        title: '<translate>Frictionless sign-up</translate>',
       },
       {
         content: '<translate>The content of my second feature</translate>',
         image: imgUrl('docusaurus.svg'),
         imageAlign: 'top',
-        title: 'Feature Two',
+        title: 'Encrypted',
       },
+      {
+        content: '<translate>This is thesss content of my feature</translate>',
+        image: imgUrl('docusaurus.svg'),
+        imageAlign: 'top',
+        title: '<translate>Frictissssonless sign-up</translate>',
+      },
+      {
+        content: '<translate>The cossntent of my second feature</translate>',
+        image: imgUrl('docusaurus.svg'),
+        imageAlign: 'top',
+        title: 'Encryptedss',
+      }
     ]}
   </Block>
 );
