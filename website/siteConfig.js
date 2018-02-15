@@ -20,10 +20,10 @@ const siteConfig = {
     apiKey: "db51bcd5e513cfe52faa7ea59f2566b5",
     indexName: "test"
   },
-  title: 'Test Site' /* title for your website */,
+  title: 'Unity CloudSave' /* title for your website */,
   tagline: 'A website for testing',
   url: 'https://rafaelnsantos.github.io/unity-cloudsave-site' /* your website url */,
-  baseUrl: '/' /* base url for your project */,
+  baseUrl: '/unity-cloudsave-site/' /* base url for your project */,
   projectName: 'unity-cloudsave-site',
   headerLinks: [
     {doc: 'doc1', label: 'Docs'},
@@ -58,8 +58,8 @@ const siteConfig = {
     'Copyright © ' +
     new Date().getFullYear() +
     '2DverseStudio',
-  organizationName: 'rafaelnsantos1', // or set an env variable ORGANIZATION_NAME
-  // projectName: 'test-site', // or set an env variable PROJECT_NAME
+  organizationName: 'rafaelnsantos', // or set an env variable ORGANIZATION_NAME
+  projectName: 'unity-cloudsave-site', // or set an env variable PROJECT_NAME
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks
     theme: 'default',
