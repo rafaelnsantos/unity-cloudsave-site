@@ -22,9 +22,9 @@ const siteConfig = {
   },
   title: 'Test Site' /* title for your website */,
   tagline: 'A website for testing',
-  url: 'https://rafaelnsantos.github.io/unity-cloudsave' /* your website url */,
+  url: 'https://rafaelnsantos.github.io/unity-cloudsave-site' /* your website url */,
   baseUrl: '/' /* base url for your project */,
-  projectName: 'test-site',
+  projectName: 'unity-cloudsave',
   headerLinks: [
     {doc: 'doc1', label: 'Docs'},
     {doc: 'doc4', label: 'API'},
@@ -66,7 +66,7 @@ const siteConfig = {
   },
   scripts: ['https://buttons.github.io/buttons.js'],
   // You may provide arbitrary config keys to be used as needed by your template.
-  repoUrl: 'https://github.com/facebook/test-site',
+  repoUrl: 'https://github.com/rafaelnsantos/unity-cloudsave',
 };
 
 module.exports = siteConfig;
