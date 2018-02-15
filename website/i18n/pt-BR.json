@@ -3,13 +3,18 @@
   "localized-strings": {
     "next": "Próximo",
     "previous": "Anterior",
-    "tagline": "Um site para testes",
-    "installation": "Instalação",
+    "tagline": "Open Source cloudsave solution for unity mobile and WebGL.",
+    "api-documentation": "API documentation",
+    "server-installation": "Server Installation",
+    "unity-installation": "Unity Installation",
     "Docs": "Docs",
+    "API": "API",
     "Help": "Ajuda",
     "About": "Sobre",
     "Blog": "Blog",
-    "Getting Started": "Guia de introdução"
+    "Server Setup": "Server Setup",
+    "Unity Setup": "Unity Setup",
+    "Documentation API": "Documentation API"
   },
   "pages-strings": {
     "About Unity CloudSave|no description given": "Sobre a Unity CloudSave",
@@ -26,6 +31,8 @@
     "These are features of this project|no description given": "Estas são características deste projeto",
     "Who's Using This?|no description given": "Quem está usando?",
     "More Users|no description given": "Mais usuários",
+    "Are you using this project?|no description given": "Are you using this project?",
+    "Add your company|no description given": "Add your company",
     "Help Translate|recruit community translators for your project": "Ajude a traduzir",
     "Edit this Doc|recruitment message asking to edit the doc source": "Editar",
     "Translate this Doc|recruitment message asking to translate the docs": "Traduzir"
