@@ -8,9 +8,9 @@
 /* List of projects/orgs using your project for the users page */
 const users = [
   {
-    caption: 'User1',
-    image: '/test-site/img/docusaurus.svg',
-    infoLink: 'https://www.facebook.com',
+    caption: '2DverseStudio',
+    image: '/unity-cloudsave-site/img/logo-menor.png',
+    infoLink: 'http://2dversestudio.com.br/',
     pinned: true,
   },
 ];
@@ -26,9 +26,9 @@ const siteConfig = {
   baseUrl: '/unity-cloudsave-site/' /* base url for your project */,
   projectName: 'unity-cloudsave-site',
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc4', label: 'API'},
+    {doc: 'installation', label: 'Docs'},
     {page: 'help', label: 'Help'},
+    {page: 'about', label: 'About'},
     {blog: true, label: 'Blog'},
     {search: true},
   ],
