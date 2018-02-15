@@ -1,4 +1,3 @@
-project_identifier_env: unity-cloudsave
 base_path: "./"
 preserve_hierarchy: true
 
