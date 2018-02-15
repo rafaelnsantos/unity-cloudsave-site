@@ -1,15 +1,15 @@
 ---
-id: server-scaling
-title: Server Scaling
+id: escalamiento-servidor
+title: Escalamiento del servidor
 ---
 # 1
 
-### [Heroku HireFire](https://www.hirefire.io/)
+### [HireFire Heroku](https://www.hirefire.io/)
 
-### [Atlas scaling](https://docs.atlas.mongodb.com/scale-cluster/)
+### [Escalamiento de Atlas](https://docs.atlas.mongodb.com/scale-cluster/)
 
-### RedisLabs scaling
+### Escalamiento de RedisLabs
 
 # 2
 
-### Docker scaling
+### Escalamiento de Docker
