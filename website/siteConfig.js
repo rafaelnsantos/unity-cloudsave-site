@@ -16,10 +16,6 @@ const users = [
 ];
 
 const siteConfig = {
-  algolia: {
-    apiKey: "db51bcd5e513cfe52faa7ea59f2566b5",
-    indexName: "test"
-  },
   title: 'Unity CloudSave' /* title for your website */,
   tagline: 'Open Source cloudsave solution for unity mobile and WebGL.',
   url: 'https://rafaelnsantos.github.io/unity-cloudsave' /* your website url */,
@@ -69,6 +65,10 @@ const siteConfig = {
   scripts: ['https://buttons.github.io/buttons.js'],
   // You may provide arbitrary config keys to be used as needed by your template.
   repoUrl: 'https://github.com/rafaelnsantos/unity-cloudsave',
+  algolia: {
+    apiKey: "db51bcd5e513cfe52faa7ea59f2566b5",
+    indexName: "unity_cloud_save"
+  },
 };
 
 module.exports = siteConfig;
