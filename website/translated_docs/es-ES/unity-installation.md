@@ -1,6 +1,6 @@
 ---
-id: instalacion-unidad
-title: Instalación de unidad
+id: instalacion-unity
+title: Instalación de Unity
 ---
 ### 1 Usando el proyecto de inicio rápido
 
@@ -8,5 +8,5 @@ title: Instalación de unidad
 
 ### 2 Docker
 
-1. Import the Cloudsave-client package.
-2. Configure the Cloudsave settings in Clodsave > Edit Settings
+1. Importar el paquete Cloudsave-client.
+2. Configure los parámetros de Cloudsave en Cloudsave > Editar configuración
