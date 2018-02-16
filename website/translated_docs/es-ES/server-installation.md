@@ -6,9 +6,9 @@ Hay dos formas de desplegar el servidor.
 
 ### 1
 
-1. Configure un nivel libre en una cuenta de MongoDB Atlas.
-2. Configure un nivel libre en una cuenta de redislab.
-3. Configure un nivel libre en una cuenta de heroku.
+1. Configure un nivel libre en una cuenta de [MongoDB Atlas](https://www.mongodb.com/cloud/atlas).
+2. Configure un nivel libre en una cuenta de [redislab](https://redislabs.com/).
+3. Configure un nivel libre en una cuenta de [heroku](https://www.heroku.com/).
 
 ### 2 Docker
 
