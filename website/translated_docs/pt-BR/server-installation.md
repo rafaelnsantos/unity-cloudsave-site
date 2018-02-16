@@ -1,6 +1,6 @@
 ---
 id: server-installation
-title: Server Installation
+title: Instalação do servidor
 ---
 Existem duas maneiras de implantar o servidor.
 
