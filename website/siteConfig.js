@@ -66,7 +66,7 @@ const siteConfig = {
   // You may provide arbitrary config keys to be used as needed by your template.
   repoUrl: 'https://github.com/rafaelnsantos/unity-cloudsave',
   algolia: {
-    apiKey: 'db51bcd5e513cfe52faa7ea59f2566b5',
+    apiKey: 'c2754e9c74461dc7d77daac05ea215ca',
     indexName: 'unity_cloud_save'
   },
 };
