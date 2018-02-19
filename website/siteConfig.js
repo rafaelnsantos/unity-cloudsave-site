@@ -31,6 +31,7 @@ const siteConfig = {
     {languages: true}
   ],
   users,
+  editUrl: 'https://github.com/rafaelnsantos/unity-cloudsave-site/edit/master/docs/',
   /* path to images for header/footer */
   headerIcon: 'img/docusaurus.svg',
   footerIcon: 'img/docusaurus.svg',
@@ -68,7 +69,7 @@ const siteConfig = {
   algolia: {
     apiKey: 'c2754e9c74461dc7d77daac05ea215ca',
     indexName: 'unity_cloud_save'
-  },
+  }
 };
 
 module.exports = siteConfig;
